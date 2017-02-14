@@ -1,2 +1,10 @@
 # First_repository
-My First repository
+
+#include<stdio.h>
+void main()
+{
+ 
+ printf("Hello World");
+
+}
+
